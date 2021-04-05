@@ -74,6 +74,7 @@ header nav ul li a:hover {
   
   main {
     padding: 20px 0;
+      background-image: url(photos/background.jpg);
   }
   
   section {
